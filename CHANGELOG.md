@@ -2,6 +2,8 @@
 All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
+
+## [0.2.0] 2018-08-28
 ### Changed
 - PNDA-4503: Update platform-libraries to work with new ingest mechanics
 
